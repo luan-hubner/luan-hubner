@@ -1,18 +1,15 @@
-# Luan Hubner
+### Hi, I'm Luan. 🤘
 
-[![Gmail Badge](https://img.shields.io/badge/-luanhubner.pro@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanhubner.pro@gmail.com)](mailto:luanhubner.pro@gmail.com)
+🤓 Full Stack Developer at [UNIFASIPE](https://www.fasipe.com.br/) <br>
+🇧🇷 From Mato Grosso, Brazil <br>
 
-Entusiasta das melhores práticas de desenvolvimento web e mobile, busco sempre me atualizar e reinventar através da tecnologia.
+### What I'm doing now? 🤔
 
-"A tecnologia move o mundo e nós movemos a tecnologia."
+🖊 Writing my first article <br>
+⌨️ Build my personal website after throw in the trash the last two tries, I'm a bit perfeccionist 😅 <br>
+🦾 Working and studying to join international market in future <br>
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=luan-hubner&show_icons=true&theme=default&count_private=true&hide_border=true&bg_color=0&icon_color=41B883&title_color=41B883&text_color=34495E" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-hubner&layout=compact&hide_border=true&bg_color=0&icon_color=41B883&title_color=41B883&text_color=34495E" />
-    </td>
-  </tr>
-</table>
+### Know more! 💡
+
+💻 [LinkedIn](https://www.linkedin.com/in/luan-hubner-b82b16177/) <br>
+📷 [Instagram](https://www.instagram.com/luanhubner/) <br>

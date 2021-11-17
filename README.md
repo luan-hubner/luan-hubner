@@ -6,8 +6,7 @@
 ### What I'm doing now? 🤔
 
 🖊 Writing my first article <br>
-⌨️ Build my personal website after throw in the trash the last two tries, I'm a bit perfeccionist 😅 <br>
-🦾 Working and studying to join international market in future <br>
+📕 Studying about TDD and Clean Architecture <br>
 
 ### Know more! 💡
 

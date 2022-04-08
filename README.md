@@ -1,6 +1,6 @@
 ### Hi, I'm Luan. 🤘
 
-🤓 Full Stack Developer at [UNIFASIPE](https://www.fasipe.com.br/) <br>
+🤓 Full Stack Developer at [RURALHUB](https://www.ruralhub.com.br/) <br>
 🇧🇷 From Mato Grosso, Brazil <br>
 
 ### What I'm doing now? 🤔

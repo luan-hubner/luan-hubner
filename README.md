@@ -1,14 +1,14 @@
-### Hi, I'm Luan. 🤘
+### Olá, Eu sou o Luan. 🤘
 
-🤓 Full Stack Developer at [RURALHUB](https://www.ruralhub.com.br/) <br>
-🇧🇷 From Mato Grosso, Brazil <br>
+🤓 Desenvolvedor Full Stack no [RURALHUB](https://www.ruralhub.com.br/) <br>
+🇧🇷 Mato Grosso, Brasil <br>
 
-### What I'm doing now? 🤔
+### O que eu estou fazendo agora? 🤔
 
-🖊 Writing my first article <br>
-📕 Studying about TDD and Clean Architecture <br>
+🖊 Escrevendo meu primeiro artigo <br>
+📕 Estudando sobre TDD e Clean Architecture <br>
 
-### Know more! 💡
+### Saiba mais! 💡
 
 💻 [LinkedIn](https://www.linkedin.com/in/luan-hubner-b82b16177/) <br>
 📷 [Instagram](https://www.instagram.com/luanhubner/) <br>
